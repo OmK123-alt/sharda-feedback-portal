@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Student Feedback Portal – Sharda Competitive Exam Academy, Pune" />
+  <title>Feedback Portal – Sharda Competitive Exam Academy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+  <!-- ── Header ── -->
+  <header class="header">
+    <div class="logo-row">
+      <div class="logo-box">
+        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M12 3L2 8l10 5 10-5-10-5z" fill="#f5a623"/>
+          <path d="M2 12l10 5 10-5" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+          <path d="M2 16l10 5 10-5" stroke="#ffffff70" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="academy-name">
+        Sharda Competitive Exam Academy
+        <em>Pune</em>
+      </div>
+    </div>
+    <div class="divider" role="separator"></div>
+    <h1>Student Feedback Portal</h1>
+    <p>Select your subject below to fill the feedback form</p>
+  </header>
+
+  <!-- ── Subject Grid (populated by script.js via /api/subjects) ── -->
+  <main id="grid" class="grid" aria-label="Subject selection"></main>
+
+  <!-- ── Footer ── -->
+  <footer class="footer">
+    Click any subject card to open its feedback form &nbsp;·&nbsp;
+    <strong>Sharda Competitive Exam Academy, Pune</strong>
+  </footer>
+
+  <script src="/script.js"></script>
+</body>
+</html>

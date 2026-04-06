@@ -1,0 +1,16 @@
+{
+  "name": "sharda-feedback-portal",
+  "version": "1.0.0",
+  "description": "Student Feedback Portal – Sharda Competitive Exam Academy, Pune",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
