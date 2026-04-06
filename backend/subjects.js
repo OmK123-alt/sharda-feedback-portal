@@ -12,7 +12,6 @@ const subjects = [
   {
     id: "polity",
     label: "Polity",
-    tag: "Civics & Governance",
     icon: "🏛️",
     accentColor: "#1a3a6b",
     iconBg: "#e8edf6",
@@ -21,7 +20,7 @@ const subjects = [
   {
     id: "current-affairs",
     label: "Current Affairs",
-    tag: "News & Events",
+
     icon: "📰",
     accentColor: "#e8711a",
     iconBg: "#fdf0e6",
@@ -30,7 +29,7 @@ const subjects = [
   {
     id: "science",
     label: "Science",
-    tag: "General Science",
+
     icon: "🔬",
     accentColor: "#1a7a4a",
     iconBg: "#e6f4ed",
@@ -39,7 +38,6 @@ const subjects = [
   {
     id: "history",
     label: "History",
-    tag: "Ancient to Modern",
     icon: "📜",
     accentColor: "#7a3a1a",
     iconBg: "#f5ece6",
@@ -48,7 +46,6 @@ const subjects = [
   {
     id: "math-reasoning",
     label: "Math & Reasoning",
-    tag: "Aptitude & Logic",
     icon: "🔢",
     accentColor: "#3a1a7a",
     iconBg: "#ede6f5",
@@ -57,7 +54,6 @@ const subjects = [
   {
     id: "economics",
     label: "Economics",
-    tag: "Macro & Micro",
     icon: "📈",
     accentColor: "#1a6a7a",
     iconBg: "#e6f2f5",
@@ -66,7 +62,6 @@ const subjects = [
   {
     id: "marathi",
     label: "Marathi",
-    tag: "भाषा",
     icon: "🔤",
     accentColor: "#c0392b",
     iconBg: "#faeaea",
@@ -75,7 +70,6 @@ const subjects = [
   {
     id: "english",
     label: "English",
-    tag: "Language & Grammar",
     icon: "📝",
     accentColor: "#2471a3",
     iconBg: "#eaf3f9",
