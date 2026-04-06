@@ -15,12 +15,11 @@ const subjects = [
     icon: "🏛️",
     accentColor: "#1a3a6b",
     iconBg: "#e8edf6",
-    formUrl: "https://forms.gle/YOUR_POLITY_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc252jQnRH57r4-pYM-3UH6hAPVZr3IZSlgZftZnGkSgz-XpA/viewform?usp=dialog",
   },
   {
     id: "current-affairs",
     label: "Current Affairs",
-
     icon: "📰",
     accentColor: "#e8711a",
     iconBg: "#fdf0e6",
