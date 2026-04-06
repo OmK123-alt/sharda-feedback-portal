@@ -23,16 +23,15 @@ const subjects = [
     icon: "📰",
     accentColor: "#e8711a",
     iconBg: "#fdf0e6",
-    formUrl: "https://forms.gle/YOUR_CURRENT_AFFAIRS_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc4-_ihOzYUNXuyJtG_kwwx3ftVKWSKgkQfAm5KIDiBK_8gjQ/viewform?usp=publish-editor",
   },
   {
     id: "science",
     label: "Science",
-
     icon: "🔬",
     accentColor: "#1a7a4a",
     iconBg: "#e6f4ed",
-    formUrl: "https://forms.gle/YOUR_SCIENCE_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSe1WfvkazPLKRl2qrfrwvNc1qFMtbChdlpTVNTsvQKdl-P2Nw/viewform?usp=dialog",
   },
   {
     id: "history",
@@ -40,7 +39,7 @@ const subjects = [
     icon: "📜",
     accentColor: "#7a3a1a",
     iconBg: "#f5ece6",
-    formUrl: "https://forms.gle/YOUR_HISTORY_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdTNC8MpH0nM_wBcduigtOC8S_-3f1wkk47E0Yq12BuXaUbyQ/viewform?usp=dialog",
   },
   {
     id: "math-reasoning",
@@ -48,7 +47,7 @@ const subjects = [
     icon: "🔢",
     accentColor: "#3a1a7a",
     iconBg: "#ede6f5",
-    formUrl: "https://forms.gle/YOUR_MATH_REASONING_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScXpdBsZ_7TBCmC3HKBiZyoe2jB4WzVVeUB8Tg_d0IRloyZZQ/viewform?usp=publish-editor",
   },
   {
     id: "economics",
@@ -56,7 +55,7 @@ const subjects = [
     icon: "📈",
     accentColor: "#1a6a7a",
     iconBg: "#e6f2f5",
-    formUrl: "https://forms.gle/YOUR_ECONOMICS_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSe5kwsh-gWFv48iNITHufSJ10OiC0Cg6fTLOuFsQNmXdoNxJw/viewform?usp=dialog",
   },
   {
     id: "marathi",
@@ -64,7 +63,7 @@ const subjects = [
     icon: "🔤",
     accentColor: "#c0392b",
     iconBg: "#faeaea",
-    formUrl: "https://forms.gle/YOUR_MARATHI_FORM_LINK",
+    formUrl:"https://docs.google.com/forms/d/e/1FAIpQLSd89eB46LnoLBoRb-pzK8ltZtzg_izHvkgwEPsSQu1tWqELEw/viewform?usp=publish-editor",
   },
   {
     id: "english",
@@ -72,7 +71,7 @@ const subjects = [
     icon: "📝",
     accentColor: "#2471a3",
     iconBg: "#eaf3f9",
-    formUrl: "https://forms.gle/YOUR_ENGLISH_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeErrHff5to6BWCi3I9MpefPWZcGqiRyHis4WwHx4HO2IOyDQ/viewform?usp=publish-editor",
   },
 ];
 
