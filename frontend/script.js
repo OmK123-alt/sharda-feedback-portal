@@ -9,7 +9,7 @@
 const grid = document.getElementById("grid");
 
 // ── 1. Skeleton placeholders while the API loads ─────────────
-function renderSkeletons(count = 8) {
+function renderSkeletons(count = 9) {
   grid.innerHTML = Array.from({ length: count })
     .map(() => `
       <div class="skeleton-card">

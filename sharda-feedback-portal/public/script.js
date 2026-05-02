@@ -6,7 +6,7 @@
 const grid = document.getElementById("grid");
 
 // ── Skeleton placeholders while loading ──
-function renderSkeletons(count = 8) {
+function renderSkeletons(count = 9) {
   grid.innerHTML = Array.from({ length: count })
     .map(
       () => `

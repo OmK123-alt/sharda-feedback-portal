@@ -45,6 +45,15 @@ const subjects = [
     formUrl: "https://forms.gle/YOUR_HISTORY_FORM_LINK",
   },
   {
+    id: "geography",
+    label: "Geography",
+    tag: "India & World",
+    icon: "🌍",
+    color: "#1e6f5c",
+    bg: "#e6f5f1",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfcaX7z6MjYUeg1vN-oQwN3Y-a_OfKJu6YYIfUqXNFr4czHCw/viewform?usp=publish-editor",
+  },
+  {
     id: "math-reasoning",
     label: "Math & Reasoning",
     tag: "Aptitude & Logic",

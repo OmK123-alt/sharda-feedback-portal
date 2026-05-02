@@ -5,7 +5,7 @@
 
 const grid = document.getElementById("grid");
 
-function renderSkeletons(count = 8) {
+function renderSkeletons(count = 9) {
   grid.innerHTML = Array.from({ length: count })
     .map(() => `
       <div class="skeleton-card">
