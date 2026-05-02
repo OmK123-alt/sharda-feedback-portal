@@ -48,7 +48,7 @@ const subjects = [
     icon: "🌍",
     accentColor: "#1e6f5c",
     iconBg: "#e6f5f1",
-    formUrl: "https://forms.gle/YOUR_GEOGRAPHY_FORM_LINK",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfcaX7z6MjYUeg1vN-oQwN3Y-a_OfKJu6YYIfUqXNFr4czHCw/viewform?usp=publish-editor",
   },
   {
     id: "math-reasoning",
